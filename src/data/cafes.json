@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "name": "",
+        "borough": "",
+        "neighborhood": "",
+        "address": "",
+        "description": "",
+        "image": "",
+        "website": "",
+        "instagram": "",
+        "tags": [],
+        "priceRange": "",
+        "mustTry": "",
+        "wifi": "true/false",
+        "outlets": "true/false",
+        "studyFriendly": "true/false",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "id": 2,
+        "name": "",
+        "borough": "",
+        "neighborhood": "",
+        "address": "",
+        "description": "",
+        "image": "",
+        "website": "",
+        "instagram": "",
+        "tags": [],
+        "priceRange": "",
+        "mustTry": "",
+        "wifi": "true/false",
+        "outlets": "true/false",
+        "studyFriendly": "true/false",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "id": 3,
+        "name": "",
+        "borough": "",
+        "neighborhood": "",
+        "address": "",
+        "description": "",
+        "image": "",
+        "website": "",
+        "instagram": "",
+        "tags": [],
+        "priceRange": "",
+        "mustTry": "",
+        "wifi": "true/false",
+        "outlets": "true/false",
+        "studyFriendly": "true/false",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "id": 4,
+        "name": "",
+        "borough": "",
+        "neighborhood": "",
+        "address": "",
+        "description": "",
+        "image": "",
+        "website": "",
+        "instagram": "",
+        "tags": [],
+        "priceRange": "",
+        "mustTry": "",
+        "wifi": "true/false",
+        "outlets": "true/false",
+        "studyFriendly": "true/false",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "id": 5,
+        "name": "",
+        "borough": "",
+        "neighborhood": "",
+        "address": "",
+        "description": "",
+        "image": "",
+        "website": "",
+        "instagram": "",
+        "tags": [],
+        "priceRange": "",
+        "mustTry": "",
+        "wifi": "true/false",
+        "outlets": "true/false",
+        "studyFriendly": "true/false",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "id": 6,
+        "name": "",
+        "borough": "",
+        "neighborhood": "",
+        "address": "",
+        "description": "",
+        "image": "",
+        "website": "",
+        "instagram": "",
+        "tags": [],
+        "priceRange": "",
+        "mustTry": "",
+        "wifi": "true/false",
+        "outlets": "true/false",
+        "studyFriendly": "true/false",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        }
+    }
+]

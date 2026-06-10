@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1,
+        "name": "",
+        "category": "",
+        "borough": "",
+        "neighborhood": "",
+        "address": "",
+        "description": "",
+        "image": "",
+        "website": "",
+        "instagram": "",
+        "tags": [],
+        "priceRange": "",
+        "favoriteItem": "",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "id": 2,
+        "name": "",
+        "category": "",
+        "borough": "",
+        "neighborhood": "",
+        "address": "",
+        "description": "",
+        "image": "",
+        "website": "",
+        "instagram": "",
+        "tags": [],
+        "priceRange": "",
+        "favoriteItem": "",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "id": 3,
+        "name": "",
+        "category": "",
+        "borough": "",
+        "neighborhood": "",
+        "address": "",
+        "description": "",
+        "image": "",
+        "website": "",
+        "instagram": "",
+        "tags": [],
+        "priceRange": "",
+        "favoriteItem": "",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "id": 4,
+        "name": "",
+        "category": "",
+        "borough": "",
+        "neighborhood": "",
+        "address": "",
+        "description": "",
+        "image": "",
+        "website": "",
+        "instagram": "",
+        "tags": [],
+        "priceRange": "",
+        "favoriteItem": "",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "id": 5,
+        "name": "",
+        "category": "",
+        "borough": "",
+        "neighborhood": "",
+        "address": "",
+        "description": "",
+        "image": "",
+        "website": "",
+        "instagram": "",
+        "tags": [],
+        "priceRange": "",
+        "favoriteItem": "",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "id": 6,
+        "name": "",
+        "category": "",
+        "borough": "",
+        "neighborhood": "",
+        "address": "",
+        "description": "",
+        "image": "",
+        "website": "",
+        "instagram": "",
+        "tags": [],
+        "priceRange": "",
+        "favoriteItem": "",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        }
+    }
+]
