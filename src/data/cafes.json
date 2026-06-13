@@ -1,20 +1,16 @@
 [
     {
         "id": 1,
-        "name": "",
-        "borough": "",
-        "neighborhood": "",
-        "address": "",
+        "name": "Don Alejo Coffee",
+        "borough": "Manhattan",
+        "neighborhood": "East Harlem",
+        "address": "228 E 116th St",
         "description": "",
         "image": "",
         "website": "",
         "instagram": "",
-        "tags": [],
         "priceRange": "",
         "mustTry": "",
-        "wifi": "true/false",
-        "outlets": "true/false",
-        "studyFriendly": "true/false",
         "coordinates": {
             "lat": 0,
             "lng": 0
@@ -22,20 +18,16 @@
     },
     {
         "id": 2,
-        "name": "",
-        "borough": "",
-        "neighborhood": "",
-        "address": "",
+        "name": "Hidden Grounds",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "address": "400 Union Ave, Brooklyn, NY 11211",
         "description": "",
         "image": "",
         "website": "",
         "instagram": "",
-        "tags": [],
         "priceRange": "",
         "mustTry": "",
-        "wifi": "true/false",
-        "outlets": "true/false",
-        "studyFriendly": "true/false",
         "coordinates": {
             "lat": 0,
             "lng": 0
@@ -51,12 +43,8 @@
         "image": "",
         "website": "",
         "instagram": "",
-        "tags": [],
         "priceRange": "",
         "mustTry": "",
-        "wifi": "true/false",
-        "outlets": "true/false",
-        "studyFriendly": "true/false",
         "coordinates": {
             "lat": 0,
             "lng": 0
@@ -72,12 +60,8 @@
         "image": "",
         "website": "",
         "instagram": "",
-        "tags": [],
         "priceRange": "",
         "mustTry": "",
-        "wifi": "true/false",
-        "outlets": "true/false",
-        "studyFriendly": "true/false",
         "coordinates": {
             "lat": 0,
             "lng": 0
@@ -93,12 +77,8 @@
         "image": "",
         "website": "",
         "instagram": "",
-        "tags": [],
         "priceRange": "",
         "mustTry": "",
-        "wifi": "true/false",
-        "outlets": "true/false",
-        "studyFriendly": "true/false",
         "coordinates": {
             "lat": 0,
             "lng": 0
@@ -114,12 +94,8 @@
         "image": "",
         "website": "",
         "instagram": "",
-        "tags": [],
         "priceRange": "",
         "mustTry": "",
-        "wifi": "true/false",
-        "outlets": "true/false",
-        "studyFriendly": "true/false",
         "coordinates": {
             "lat": 0,
             "lng": 0
