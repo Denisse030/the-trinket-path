@@ -1,6 +1,7 @@
 import "@fontsource/clicker-script/400.css";
 import "@fontsource/jersey-25/400.css";
 import "@fontsource/alice/400.css";
+import "leaflet/dist/leaflet.css";
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';

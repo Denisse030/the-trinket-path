@@ -16,10 +16,10 @@ const About = () => {
           <h1>Welcome Explorers</h1>
           <h2>ABOUT THE PROJECT & A QUICK INTRO</h2>
           <p>
-            <strong>Welcome to The Trinket Path:</strong> NYC Edition. I’ve created a curated guide to cozy cafés, lovely trinket shops, and some beautiful art galleries throughout the Big Apple. I’ve created this for fellow explorers and collectors. As someone who enjoys discovering cafés, stationery stores, and hidden gems around the city, I wanted to create a space that combines those interests into one interactive guide.
+            <strong>Welcome to The Trinket Path:</strong> NYC Edition. I’ve created a curated guide to cozy cafés, lovely trinket shops, and some beautiful art galleries throughout the Big Apple. I’ve made this for fellow explorers and collectors. And as someone who loves discovering cafés, shopping in stationery stores, and finding hidden gems around the city, I wanted to create a space that combines those interests into one interactive guide.
           </p>
           <p>
-            Now, a little bit about me, I’m a passionate developer and designer based in New York City who loves creating visually engaging, user-friendly websites. I enjoy blending creativity with functionality to design digital experiences that feel intuitive and unique. From personal projects to collaborative work, I am driven by curiosity, problem-solving, and the excitement of bringing ideas to life through clean design and thoughtful interaction. Whether it is building from scratch or revamping existing sites, I aim to make every project memorable and meaningful.
+            Now, for a little bit about me, I’m a passionate developer and designer based in NYC who loves creating visually engaging, user-friendly websites. I enjoy blending creativity with functionality to design digital experiences that feel intuitive and unique. From personal projects to collaborative work, I am driven by curiosity, problem-solving, and the excitement of bringing ideas to life through clean design and thoughtful interaction. Whether it is building from scratch or revamping existing sites, I aim to make every project memorable and meaningful.
           </p>
         </div>
         <div className="profile-image"></div>

@@ -1,6 +1,7 @@
 import { useState } from "react";
 import trinketsData from "../data/trinkets.json";
 import "../App.css";
+import LeafletMap from "../components/LeafletMap";
 
 type Place = {
  id: number;
@@ -42,6 +43,10 @@ const Trinkets = () => {
           <div className="explore-card-title">{item.name}</div>
         </button>
       ))}
+    </section>
+
+    <section className="explore-map-section">
+      <LeafletMap places={trinketsData} />
     </section>
 
     {selectedCard && (

@@ -1,7 +1,7 @@
 import { useState } from "react";
 import cafesData from "../data/cafes.json";
 import "../App.css";
-
+import LeafletMap from "../components/LeafletMap";
 
 type Place = {
  id: number;
@@ -44,6 +44,10 @@ const Cafes = () => {
           <div className="explore-card-title">{item.name}</div>
         </button>
       ))}
+    </section>
+
+    <section className="explore-map-section">
+      <LeafletMap places={cafesData} />
     </section>
 
     {selectedCard && (
