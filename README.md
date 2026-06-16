@@ -101,6 +101,15 @@ Visitors can submit recommendations and hidden gems through a contact form power
 * **Figma** — used to wireframe the initial layouts and plan the user experience
 * **Canva** — used to create custom backgrounds and visual assets throughout the site
 * **Claude AI** — used to assist with debugging and troubleshooting during development
+
+### Learning Resources
+* Lecture Notes and Class Resources
+* React Documentation
+* TypeScript Documentation
+* React Router Documentation
+* React Leaflet Documentation
+* Leaflet Documentation
+
 ---
 
 ## Project Structure
