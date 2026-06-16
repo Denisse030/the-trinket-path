@@ -6,6 +6,9 @@ Created for fellow explorers and collectors, this project combines my love for h
 
 The Trinket Path: NYC Edition was developed as my term project for CS601: Web Application Development at Boston University MET College.
 
+## **Live Site**
+
+* [The Trinket Path](https://the-trinket-path.netlify.app/)
 ---
 
 ## About the Project

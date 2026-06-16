@@ -8,8 +8,8 @@ const Footer = () => {
       <div className="footer-line"></div>
       <div className="footer-links">
         <a href="mailto:dbg03@bu.edu" target="_blank" rel="noopener noreferrer">Email</a>
-        <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-        <a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a href="www.linkedin.com/in/denissebenitogutierrez" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <a href="https://github.com/Denisse030/the-trinket-path" target="_blank" rel="noopener noreferrer">GitHub</a>
       </div>
       <div className="footer-copy">© 2026 Denisse Benito Gutierrez. All rights reserved.</div>
     </footer>
