@@ -1,11 +1,17 @@
-import React from 'react'
+import About from "./About.js";
+import "../App.css";
 
 const Home = () => {
   return (
-    <div>
-      
-    </div>
-  )
-}
+    <main className="home-page">
+      <section className="hero-section">
+        <div className="hero-text">
+            <h1>Welcome To The Trinket Path</h1>
+        </div>
+      </section>
+      <About />
+    </main>
+  );
+};
 
-export default Home
+export default Home;

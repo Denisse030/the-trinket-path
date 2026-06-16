@@ -1,19 +1,18 @@
 [
     {
         "id": 1,
-        "name": "Don Alejo Coffee",
+        "name": "Indomable Coffee",
         "borough": "Manhattan",
         "neighborhood": "East Harlem",
-        "address": "228 E 116th St",
-        "description": "",
+        "address": "228 E 116th St, New York, NY 10029",
+        "description": "A cozy neighborhood gem filled with aromatic brews, comforting bites, and a welcoming atmosphere that feels like a hug in café form.",
         "image": "",
-        "website": "",
-        "instagram": "",
-        "priceRange": "",
-        "mustTry": "",
+        "website": "https://www.donalejocoffee.com/",
+        "instagram": "https://www.instagram.com/donalejocoffee/",
+        "priceRange": "$",
         "coordinates": {
-            "lat": 0,
-            "lng": 0
+            "lat": 40.79747507227457,
+            "lng": -73.93890360331673
         }
     },
     {
@@ -22,83 +21,78 @@
         "borough": "Brooklyn",
         "neighborhood": "Williamsburg",
         "address": "400 Union Ave, Brooklyn, NY 11211",
-        "description": "",
+        "description": "A charming café blending South Asian flavors with specialty coffee, creating the perfect spot for quiet mornings and cozy catch-ups.",
         "image": "",
-        "website": "",
-        "instagram": "",
-        "priceRange": "",
-        "mustTry": "",
+        "website": "https://thehiddengrounds.com/",
+        "instagram": "https://www.instagram.com/hiddengroundscoffee",
+        "priceRange": "$",
         "coordinates": {
-            "lat": 0,
-            "lng": 0
+            "lat": 40.71814056946362,
+            "lng": -73.94968451069386
         }
     },
     {
         "id": 3,
-        "name": "",
-        "borough": "",
-        "neighborhood": "",
-        "address": "",
-        "description": "",
+        "name": "Bibble & Sip",
+        "borough": "Manhattan",
+        "neighborhood": "Hell's Kitchen",
+        "address": "253 W 51st St, New York, NY 10019",
+        "description": "A beloved café serving adorable pastries and specialty drinks in a cozy atmosphere. The lavender latte is one of my favorites, offering the perfect balance of floral sweetness and comfort.",
         "image": "",
-        "website": "",
-        "instagram": "",
-        "priceRange": "",
-        "mustTry": "",
+        "website": "https://www.bibbleandsip.com/",
+        "instagram": "https://www.instagram.com/bibbleandsip",
+        "priceRange": "$$",
         "coordinates": {
-            "lat": 0,
-            "lng": 0
+            "lat": 40.76382687211247,
+            "lng": -73.98540449170189
         }
     },
     {
         "id": 4,
-        "name": "",
-        "borough": "",
-        "neighborhood": "",
-        "address": "",
-        "description": "",
+        "name": "Mottley Kitchen",
+        "borough": "The Bronx",
+        "neighborhood": "Mott Haven",
+        "address": "402 E 140th St, Bronx, NY 10454",
+        "description": "A welcoming café known for its fresh pastries, specialty coffee, and relaxed atmosphere. Whether you're catching up with friends or enjoying a quiet moment, it's the perfect place to unwind with something delicious.",
         "image": "",
-        "website": "",
-        "instagram": "",
-        "priceRange": "",
-        "mustTry": "",
+        "website": "https://www.mottleykitchen.com/",
+        "instagram": "https://www.instagram.com/mottleykitchen/",
+        "priceRange": "$",
         "coordinates": {
-            "lat": 0,
-            "lng": 0
+            "lat": 40.81148316695494,
+            "lng": -73.92152293681448
         }
     },
     {
         "id": 5,
-        "name": "",
-        "borough": "",
-        "neighborhood": "",
-        "address": "",
-        "description": "",
+        "name": "Mokafe",
+        "borough": "Queens",
+        "neighborhood": "Steinway",
+        "address": "25-73 Steinway St, Astoria, NY 11103",
+        "description": "A beloved café serving Yemeni-inspired coffee, decadent desserts, and cozy vibes. From fragrant lattes to honeycomb bread, every treat feels like a little adventure for the senses.",
         "image": "",
-        "website": "",
-        "instagram": "",
-        "priceRange": "",
-        "mustTry": "",
+        "website": "https://mymokafe.com/",
+        "instagram": "https://www.instagram.com/mymokafe",
+        "priceRange": "$",
         "coordinates": {
-            "lat": 0,
-            "lng": 0
+            "lat": 40.76619446237331,
+            "lng": -73.91283421850954
         }
     },
     {
         "id": 6,
-        "name": "",
-        "borough": "",
-        "neighborhood": "",
-        "address": "",
-        "description": "",
+        "name": "Café de Olla",
+        "borough": "Queens",
+        "neighborhood": "Broadway",
+        "address": "38-07 Broadway, Astoria, NY 11103",
+        "description": "A cozy café inspired by traditional Mexican flavors and comforting homemade dishes. The warm atmosphere and rich, cinnamon-spiced coffee make it the perfect place to slow down and enjoy a little taste of home.",
         "image": "",
-        "website": "",
-        "instagram": "",
-        "priceRange": "",
-        "mustTry": "",
+        "website": "https://cafe-de-olla.edan.io/",
+        "instagram": "https://www.instagram.com/cafedeolla_astoria/",
+        "priceRange": "$",
         "coordinates": {
-            "lat": 0,
-            "lng": 0
+            "lat": 40.759493060155165,
+            "lng": -73.91932305348197
         }
     }
 ]
