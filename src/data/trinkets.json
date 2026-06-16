@@ -6,7 +6,7 @@
         "neighborhood": "Greenwich Village",
         "address": "434 6th Ave, New York, NY 10011",
         "description": "Tucked away in the West Village, The Locavore Variety Store is a whimsical stop for curious collectors, offering playful gifts, stationery, home goods, and delightful little surprises around every corner.",
-        "image": "/src/assets/trinkets/The Locavore Variety Storefront.png",
+        "image": "/src/assets/trinkets/the-locavore-variety-storefront.png",
         "website": "https://thelocavore.com/",
         "instagram": "https://www.instagram.com/thelocavorenyc/",
         "coordinates": {
@@ -21,7 +21,7 @@
         "neighborhood": "Williamsburg",
         "address": "64 Grand St, Brooklyn, NY 11249",
         "description": "A cozy corner for paper lovers, Loaf on Paper offers a carefully curated collection of stationery, stickers, journals, and whimsical finds that are sure to spark creativity.",
-        "image": "/src/assets/trinkets/Loaf on Paper Storefront.png",
+        "image": "/src/assets/trinkets/loaf-on-paper-storefront.png",
         "website": "https://www.niconeco.com/",
         "instagram": "https://www.instagram.com/loafonpaperny/",
         "coordinates": {
@@ -36,7 +36,7 @@
         "neighborhood": "Williamsburg",
         "address": "119 N 1st St, Brooklyn, NY 11249",
         "description": "Part charm bar, part craft haven, and part café, this dreamy Williamsburg gem is filled with whimsical treasures and creative experiences that spark joy.",
-        "image": "/src/assets/trinkets/Haricot Vert's Dreamworld Storefront.png",
+        "image": "/src/assets/trinkets/haricot-verts-dreamworld-storefront.png",
         "website": "https://www.haricotvert.shop/",
         "instagram": "https://www.instagram.com/haricotvert/",
         "coordinates": {
@@ -51,7 +51,7 @@
         "neighborhood": "Lower East Side",
         "address": "37 Orchard St, New York, NY 10002",
         "description": "A cozy little wonderland where handcrafted ceramics, playful trinkets, and unique finds from around the world come together in the most enchanting way.",
-        "image": "/src/assets/trinkets/November 19 Shop Storefront.png",
+        "image": "/src/assets/trinkets/november-19-shop-storefront.png",
         "website": "https://www.november19market.com/",
         "instagram": "https://www.instagram.com/thenovember19/",
         "coordinates": {
@@ -66,7 +66,7 @@
         "neighborhood": "Steinway",
         "address": "36-12 34th Ave, Astoria, NY 11106",
         "description": "Tucked away in Astoria, Newtown HQ is a cheerful wonderland brimming with adorable trinkets, stationery, and treasures from local, Mexican, and Japanese artists.",
-        "image": "/src/assets/trinkets/Newtown HQ Storefront.png",
+        "image": "/src/assets/trinkets/newtown-hq-storefront.png",
         "website": "https://www.newtownhq.com/",
         "instagram": "http://instagram.com/NewTownHQ/",
         "coordinates": {
@@ -81,7 +81,7 @@
         "neighborhood": "Broadway",
         "address": "32-15 33rd St, Astoria, NY 11106",
         "description": "A cozy neighborhood gem filled with charming gifts, whimsical stationery, and thoughtfully curated treasures that make every visit feel like a delightful little adventure.",
-        "image": "/src/assets/trinkets/Lockwood Paper Storefront.png",
+        "image": "/src/assets/trinkets/lockwood-paper-storefront.png",
         "website": "https://lockwoodshop.com/",
         "instagram": "https://www.instagram.com/lockwoodshop/",
         "coordinates": {
