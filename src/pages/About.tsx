@@ -2,6 +2,13 @@ import { Link } from "react-router-dom";
 import "../App.css";
 
 const About = () => {
+    const handlePathChange = () => {
+        window.scrollTo({
+        top: 0,
+        left: 0,
+        behavior: "smooth",
+        });
+    };
   return (
     <>
       <section className="about-section" id="about">
@@ -20,10 +27,16 @@ const About = () => {
 
       <section className="path-section">
         <h1 className="path-title">Pick Your Path</h1>
-        <div className="path-cards">  
-          <Link to="/cafes" className="path-card cafes-card">Cafes</Link>
-          <Link to="/trinkets" className="path-card trinkets-card">Trinket Shops</Link>
-          <Link to="/galleries" className="path-card galleries-card">Galleries</Link>
+        <div className="path-cards">
+          <Link to="/cafes" className="path-card cafes-card" onClick={handlePathChange}>
+            Cafes
+          </Link>
+          <Link to="/trinkets" className="path-card trinkets-card" onClick={handlePathChange}>
+            Trinket Shops
+          </Link>
+          <Link to="/galleries" className="path-card galleries-card" onClick={handlePathChange}>
+            Galleries
+          </Link>
         </div>
       </section>
     </>

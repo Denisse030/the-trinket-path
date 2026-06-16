@@ -19,33 +19,65 @@ const Navbar = () => {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  const goToSection = (sectionId: string) => {
-    navigate("/");
+  const goToAbout = () => {
+    setMenuOpen(false);
 
-    setTimeout(() => {
-      document.getElementById(sectionId)?.scrollIntoView({
+    if (window.location.pathname === "/") {
+      document.getElementById("about")?.scrollIntoView({
         behavior: "smooth",
       });
-    }, 100);
+    } else {
+      navigate("/");
+
+      setTimeout(() => {
+        document.getElementById("about")?.scrollIntoView({
+          behavior: "smooth",
+        });
+      }, 100);
+    }
+  };
+
+  const handlePageChange = () => {
+    setMenuOpen(false);
+
+    window.scrollTo({
+      top: 0,
+      left: 0,
+      behavior: "smooth",
+    });
   };
 
   return (
     <>
       <nav className={`navbar ${scrolled ? "scrolled" : ""}`}>
-        <Link to="/" className="navbar-brand" onClick={() => setMenuOpen(false)}>
+        <Link to="/" className="navbar-brand" onClick={() => {
+            setMenuOpen(false);
+            window.scrollTo({
+              top: 0,
+              behavior: "smooth",
+            });
+          }}
+        >
           <img src={logo} alt="The Trinket Path" className="navbar-logo"/>
         </Link>
 
         <div className="navbar-links">
-          <a href="/#about" onClick={(e) => { e.preventDefault(); goToSection("about"); }}>About</a>
-          <NavLink to="/trinkets">Trinkets</NavLink>
-          <NavLink to="/cafes">Cafes</NavLink>
-          <NavLink to="/galleries">Galleries</NavLink>
-          <a href="/#contact" onClick={(e) => { e.preventDefault(); goToSection("contact"); }}>Contact</a>
+          <a href="/#about" onClick={(e) => {
+              e.preventDefault();
+              goToAbout();
+            }}
+          >About</a>
+          
+          <NavLink to="/trinkets" onClick={handlePageChange}>Trinkets</NavLink>
+          <NavLink to="/cafes" onClick={handlePageChange}>Cafes</NavLink>
+          <NavLink to="/galleries" onClick={handlePageChange}>Galleries</NavLink>
+          <NavLink to="/contact" onClick={handlePageChange}>Contact</NavLink>
         </div>
 
         <button className="hamburger" onClick={() => setMenuOpen(!menuOpen)} aria-label={menuOpen ? "Close menu" : "Open menu"}>
-          {menuOpen ? ( <span className="close-icon">✕</span> ) : (
+          {menuOpen ? (
+            <span className="close-icon">✕</span>
+          ) : (
             <>
               <span />
               <span />
@@ -55,13 +87,18 @@ const Navbar = () => {
         </button>
       </nav>
 
-      {/* Mobile Menu */}
+      {/* Mobile */}
       <div className={`mobile-menu ${menuOpen ? "open" : ""}`}>
-        <a href="/#about" onClick={(e) => { e.preventDefault(); setMenuOpen(false); goToSection("about"); }}>About</a>
-        <NavLink to="/trinkets" onClick={() => setMenuOpen(false)}>Trinkets</NavLink>
-        <NavLink to="/cafes" onClick={() => setMenuOpen(false)}>Cafes</NavLink>
-        <NavLink to="/galleries" onClick={() => setMenuOpen(false)}>Galleries</NavLink>
-        <a href="/#contact" onClick={(e) => { e.preventDefault(); setMenuOpen(false); goToSection("contact");}}>Contact</a>
+        <a href="/#about" onClick={(e) => {
+            e.preventDefault();
+            goToAbout();
+          }}
+        >About</a>
+
+        <NavLink to="/trinkets" onClick={handlePageChange}>Trinkets</NavLink>
+        <NavLink to="/cafes" onClick={handlePageChange}>Cafes</NavLink>
+        <NavLink to="/galleries" onClick={handlePageChange}>Galleries</NavLink>
+        <NavLink to="/contact" onClick={handlePageChange}>Contact</NavLink>
       </div>
     </>
   );

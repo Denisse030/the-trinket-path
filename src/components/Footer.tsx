@@ -2,7 +2,7 @@ import "../App.css";
 
 const Footer = () => {
   return (
-    <footer className="footer" id="contact">
+    <footer className="footer" id="footer">
       <div className="footer-title">The Trinket Path</div>
       <div className="footer-email">dbg03@bu.edu</div>
       <div className="footer-line"></div>
