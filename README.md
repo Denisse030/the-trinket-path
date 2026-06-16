@@ -4,7 +4,7 @@ Welcome to **The Trinket Path**, this is an interactive guide to some of New Yor
 
 Created for fellow explorers and collectors, this project combines my love for hidden gems, stationery stores, and beautiful spaces into one scrapbook-inspired digital experience.
 
-The Trinket Path: NYC Edition was developed as my term project for CS601: Web Application Development at Boston University MET College.
+The Trinket Path: NYC Edition was developed as my term project for CS601: Frontend Web Development at Boston University MET College.
 
 ## **Live Site**
 
